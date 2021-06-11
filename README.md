@@ -1,4 +1,15 @@
-# Setting up Azure Virtual Network Gateway (VPN Gateway)
+# AKS Cluster
+Heaviliy based on the work from [Ray Kao](https://github.com/raykao)
+
+ - [x] Private Cluster
+ - [x] Kubenet
+ - [x] Calico
+ - [x] User Defined Routes
+ - [x] Hub-Spoke Topology
+ - [x] Jumpbox
+ - [x] Azure Firewall
+
+## Setting up Azure Virtual Network Gateway (VPN Gateway)
 
 ```bash
 cd default
